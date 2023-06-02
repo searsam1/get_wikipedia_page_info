@@ -27,7 +27,7 @@ This repository contains a Python script that utilizes the Wikipedia API to fetc
 5. The script will fetch the data from the Wikipedia API and print all available information for the specified page.
 
 ## License
-
+https://github.com/searsam1/get_wikipedia_page_info/blob/main/LICENSE
 
 ## Contributing
 
